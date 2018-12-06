@@ -23,11 +23,13 @@ These are some of them:
 
 [Moqups](https://moqups.com/)
 
-[Krita] (https://krita.org/en/homepage/)
+[Krita](https://krita.org/en/homepage/)
 
-[MediBang Paint] (https://medibangpaint.com/en/)
+[MediBang Paint](https://medibangpaint.com/en/)
 
-[Autodesk Sketchbook] (https://www.sketchbook.com/)
+[Autodesk Sketchbook](https://www.sketchbook.com/)
+
+[Gravit Designer](https://www.designer.io/)
 
 In this section, you can see popular Firefox plug-ins used by designers.
 
